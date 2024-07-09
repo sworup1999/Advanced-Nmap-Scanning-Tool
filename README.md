@@ -17,20 +17,30 @@ Clone the repository:
 
 bash
 Copy code
+```
 git clone https://github.com/sworup1999/Advanced-Nmap-Scanning-Tool.git
+```
+```
 cd advanced-nmap-scanner
+```
 Ensure nmap is installed:
 
 bash
 Copy code
+```
 sudo apt-get update
+```
+```
 sudo apt-get install nmap
+```
 Usage
 Run the script as root:
 
 bash
 Copy code
+```
 sudo ./advanced-nmap-scanner.sh
+```
 Follow the prompts to select the scan type and enter the target IP or domain along with ports to scan.
 
 Examples
