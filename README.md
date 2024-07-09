@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/advanced-nmap-scanner.git
+git clone https://github.com/sworup1999/Advanced-Nmap-Scanning-Tool.git
 cd advanced-nmap-scanner
 Ensure nmap is installed:
 
@@ -46,6 +46,6 @@ Copy code
 sudo ./advanced-nmap-scanner.sh
 
 # Author
-Sworup Kumar Sahu - @your-username
+Sworup Kumar Sahu - @sworup1999
 # Acknowledgments
 Thanks to the creators and contributors of Nmap for their powerful network scanning tool.
