@@ -1,15 +1,15 @@
 # Advanced-Nmap-Scanning-Tool
 This Bash script provides an advanced Nmap scanning tool with various scan options, designed to automate and simplify network reconnaissance tasks.
 # Features
-Quick Scan
-Full Scan
-Stealth Scan
-OS Detection
-Version Detection Scan
-UDP Scan
-Intense Scan
-Complete Scan (All scans)
-Prerequisites
+* Quick Scan
+* Full Scan
+* Stealth Scan
+* OS Detection
+* Version Detection Scan
+* UDP Scan
+* Intense Scan
+* Complete Scan (All scans)
+# Prerequisites
 Linux environment
 Root privileges (sudo)
 # Installation
