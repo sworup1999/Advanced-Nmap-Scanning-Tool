@@ -12,7 +12,7 @@ Complete Scan (All scans)
 Prerequisites
 Linux environment
 Root privileges (sudo)
-Installation
+# Installation
 Clone the repository:
 
 bash
@@ -44,10 +44,8 @@ Perform a Complete Scan (All scans) on all ports:
 bash
 Copy code
 sudo ./advanced-nmap-scanner.sh
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
+# Author
 Sworup Kumar Sahu - @your-username
-Acknowledgments
+# Acknowledgments
 Thanks to the creators and contributors of Nmap for their powerful network scanning tool.
